@@ -3,10 +3,14 @@
 </p>
 
 
-## :memo: Blog
+## :memo: About
 
 <!-- BLOG-POST-LIST:START -->
-- [Coming Soon]
+As a Jr. Cyber Security Specialist, I possess excellent problem-solving skills and the ability to handle multiple tasks simultaneously. I am an adept team builder who understands the importance of maintaining a positive work environment and fostering a sense of collaboration among team members. I am also highly skilled in conflict resolution, which is an essential quality for an offensive cyber security specialist, as it is necessary to work effectively with stakeholders to identify and address security vulnerabilities.
+
+I possess excellent analytical skills and am adept at identifying and exploiting potential security weaknesses before they can be exploited by attackers. I am also a punctual problem solver who understands the importance of timely responses to security incidents. Moreover, I am highly motivated to continuously learn and improve, staying updated with the latest developments in the field of cyber security.
+
+Overall, I am a highly motivated Jr. Cyber Security Specialist with a strong commitment to identifying and addressing security vulnerabilities and protecting organizations from potential attackers. I am open to growth and always strive to enhance my skills and knowledge in order to stay ahead in the ever-evolving landscape of cybersecurity.
 <!-- BLOG-POST-LIST:END -->
 
 ## :link: Links
