@@ -28,7 +28,6 @@ Many thanks from people that referenced this repository here.
 
 <p align="center">
 <!-- MENTIONS-LIST:START -->
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme"><img src="https://github.com/abhisheknaiidu.png?size=96" alt="abhisheknaiidu" width="96px" height="96px" /></a>
 <a href="https://github.com/DZXX21"><img src="https://github.com/DZXX21.png?size=96" alt="PamelaRondina" width="96px" height="96px" /></a>
 <a href="https://github.com/aroqsd"><img src="https://github.com/aroqsd.png?size=96" alt="kterra" width="96px" height="96px" /></a>
 <a href="https://github.com/enverogulcan"><img src="https://github.com/enverogulcan.png?size=96" alt="Lima-Paloma" width="96px" height="96px" /></a>
