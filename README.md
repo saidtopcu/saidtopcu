@@ -32,8 +32,5 @@ Many thanks from people that referenced this repository here.
 <a href="https://github.com/DZXX21"><img src="https://github.com/DZXX21.png?size=96" alt="PamelaRondina" width="96px" height="96px" /></a>
 <a href="https://github.com/aroqsd"><img src="https://github.com/aroqsd.png?size=96" alt="kterra" width="96px" height="96px" /></a>
 <a href="https://github.com/enverogulcan"><img src="https://github.com/enverogulcan.png?size=96" alt="Lima-Paloma" width="96px" height="96px" /></a>
-<a href="https://github.com/mdLn1/mdLn1"><img src="https://github.com/mdLn1.png?size=96" alt="mdLn1" width="96px" height="96px" /></a>
-<a href="https://github.com/RaFrancelino/RaFrancelino"><img src="https://github.com/RaFrancelino.png?size=96" alt="RaFrancelino" width="96px" height="96px" /></a>
-<a href="https://github.com/EvanioLima/EvanioLima"><img src="https://github.com/EvanioLima.png?size=96" alt="EvanioLima" width="96px" height="96px" /></a>
 <!-- MENTIONS-LIST:END -->
 </p>
